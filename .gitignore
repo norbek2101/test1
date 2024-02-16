@@ -1,0 +1,9 @@
+#virtual environment
+env
+.env 
+venv
+.venv
+
+# other
+__pycache__ 
+migrations
